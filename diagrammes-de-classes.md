@@ -34,7 +34,7 @@ Elles sont représentées par des rectangles séparés en trois parties:
 2. Les attributs
 3. Les opérations
 
-![](./out/classexample/classexample.svg)
+![](out/classexample/classexample.svg)
 
 
 ## Attributs
