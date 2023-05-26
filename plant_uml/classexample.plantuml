@@ -1,0 +1,9 @@
+@startuml
+hide circle
+class Class {
+    attribute1
+    attribute2
+    method1()
+    method2()
+}
+@enduml
